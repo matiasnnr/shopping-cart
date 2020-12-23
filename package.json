@@ -29,6 +29,7 @@
     "babel-loader": "^8.2.2",
     "css-loader": "^5.0.1",
     "dev-server": "^0.1.0",
+    "dotenv-webpack": "^6.0.0",
     "eslint": "^7.15.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^7.0.0",
