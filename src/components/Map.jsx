@@ -14,7 +14,7 @@ const Map = ({ data }) => {
     }
 
     return (
-        <LoadScript googleMapsApiKey={process.env.REACT_APP_API_KEY} >
+        <LoadScript googleMapsApiKey="AIzaSyCn0-fW4KGv9TV9iLFCjl7gJOoTD30nWSI" >
             <GoogleMap
             mapContainerStyle={mapStyles}
             zoom={9}
